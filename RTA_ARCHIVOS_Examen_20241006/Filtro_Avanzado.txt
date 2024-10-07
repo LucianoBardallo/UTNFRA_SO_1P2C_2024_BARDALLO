@@ -1,0 +1,4 @@
+Mi IP Publica es: 179.38.113.127
+Mi usuario es: vagrant
+El Hash de mi usuario es: $y$j9T$BR1NZwdYsr.Kial2k5Zic/$9qeePre0s/3zKcfeqYHlhM2qnz/uoZebT1L9JiF285/
+La URL de mi repositorio es: https://github.com/LucianoBardallo/UTNFRA_SO_1P2C_2024_BARDALLO.git
